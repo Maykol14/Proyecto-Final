@@ -1,0 +1,58 @@
+[
+  {
+    "id": 17,
+    "name": "Evolucion de los Puercos Reales",
+    "description": "Los Puercos Reales Evolución cargan más rápido y atraviesan defensas con golpes consecutivos devastadores.",
+    "price": 21.99,
+    "image": "imagenes/evo01.png"
+  },
+  {
+    "id": 18,
+    "name": "Evolucion del Baby Dragon",
+    "description": "El Baby Dragón Evolución lanza llamaradas más potentes y persistentes que arrasan tropas enemigas en segundos.",
+    "price": 18.99,
+    "image": "imagenes/evo02.png"
+  },
+  {
+    "id": 19,
+    "name": "Evolucion del Horno",
+    "description": "El Horno Evolución genera Espíritus de Fuego más rápidos y explosivos que presionan constantemente las defensas enemigas.",
+    "price": 6.99,
+    "image": "imagenes/evo03.png"
+  },
+  {
+    "id": 20,
+    "name": "Evolucion del Barril de Esqueletos",
+    "description": "El Barril de Esqueletos Evolución libera una oleada más densa y rápida de esqueletos que saturan y abruman cualquier defensa.",
+    "price": 12.99,
+    "image": "imagenes/evo04.png"
+  },
+  {
+    "id": 21,
+    "name": "Evolucion del Dragon Infernal",
+    "description": "El Dragón Infernal Evolución concentra su rayo abrasador con mayor rapidez y potencia, derritiendo tanques y estructuras antes de que puedan reaccionar.",
+    "price": 14.99,
+    "image": "imagenes/evo05.png"
+  },
+  {
+    "id": 22,
+    "name": "Evolucion del Dragon Electrico",
+    "description": "El Dragón Eléctrico Evolución canaliza descargas más precisas y encadenadas, desactivando tropas y estructuras con una eficiencia capaz de cambiar cualquier batalla.",
+    "price": 17.99,
+    "image": "imagenes/evo06.png"
+  },
+  {
+    "id": 23,
+    "name": "Evolucion de la Bruja",
+    "description": "Bruja evolucionada que golpea más fuerte y genera esqueletos mejorados.",
+    "price": 10.99,
+    "image": "imagenes/evo07.png"
+  },
+  {
+    "id": 24,
+    "name": "Evolucion de los Murcielagos",
+    "description": "Murciélagos evolucionados que atacan más rápido y en mayor cantidad.",
+    "price": 20.99,
+    "image": "imagenes/evo08.png"
+  }
+]

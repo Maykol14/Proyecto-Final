@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Evolucion del Fantasma Real",
+    "description": "Fantasma Real: carta legendaria rápida e invisible que ataca con gran daño en área.",
+    "price": 20.99,
+    "image": "imagenes/evo1.png"
+  },
+  {
+    "id": 2,
+    "name": "Pass Royal",
+    "description": "Pass Royale: ofrece recompensas exclusivas, oro y cofres premium.",
+    "price": 10.99,
+    "image": "imagenes/pass.png"
+  },
+  {
+    "id": 3,
+    "name": "Emote de Fantasma Real",
+    "description": "Emote Fantasma Real: gesto legendario con estilo único.",
+    "price": 30.99,
+    "image": "imagenes/ghost.png"
+  },
+  {
+    "id": 4,
+    "name": "Evolucion del Ejercito de Esqueletos",
+    "description": "Evolución de Ejército de Esqueletos: mejora su fuerza y velocidad en batalla.",
+    "price": 15.99,
+    "image": "imagenes/evoEje.png"
+  },
+  {
+    "id": 5,
+    "name": "Juntos y más allá: Trío and Hog",
+    "description": "Cerdo y Mosquetero FG: estandarte épico de velocidad y puntería. Ideal para perfiles ofensivos y precisos.",
+    "price": 55.99,
+    "image": "imagenes/estand.png"
+  },
+  {
+    "id": 6,
+    "name": "Emote del Rey #1",
+    "description": "Emote Rey Campeón: celebra la victoria con estilo. El rey sonriente y su trofeo dorado dicen ¡soy el #1! en cada partida.",
+    "price": 31.99,
+    "image": "imagenes/reyemo.png"
+  },
+  {
+    "id": 7,
+    "name": "Banner trio de mosquetera",
+    "description": "Banner Mosquetera Rosa: estilo, actitud y potencia. Tres poses, una sola energía: precisión explosiva con carisma.",
+    "price": 29.99,
+    "image": "imagenes/bantrio.png"
+  },
+  {
+    "id": 8,
+    "name": "Evolucion del Leñador",
+    "description": "Evolución del leñador: poder desatado. Con su martillo brillante y mirada feroz, arrasa el campo con cada paso.",
+    "price": 10.99,
+    "image": "imagenes/evoleña.png"
+  }
+]

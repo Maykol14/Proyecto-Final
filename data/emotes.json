@@ -1,0 +1,58 @@
+[
+  {
+    "id": 25,
+    "name": "Emote del Murciélago Enamorado",
+    "description": "Dale un toque adorable a tus batallas con este murciélago que lanza corazones sin parar.",
+    "price": 2.3,
+    "image": "imagenes/emo01.png"
+  },
+  {
+    "id": 26,
+    "name": "Emote del Leñador",
+    "description": "Exprésate con sabor y actitud: este leñador te aprueba con una manzana y un pulgar arriba",
+    "price": 9.99,
+    "image": "imagenes/emo02.png"
+  },
+  {
+    "id": 27,
+    "name": "Emote del Búfalo Rudo.",
+    "description": "Imponente y con estilo: este búfalo serio te da presencia en cada batalla.",
+    "price": 8.99,
+    "image": "imagenes/emo03.png"
+  },
+  {
+    "id": 28,
+    "name": "Emote del Rey Piedra",
+    "description": "Desata el poder sombrío con este emote ardiente y lleno de actitud real.",
+    "price": 54.99,
+    "image": "imagenes/emo04.png"
+  },
+  {
+    "id": 29,
+    "name": "Emote del Rey con Puntuación Perfecta",
+    "description": "Haz que tu aprobación se sienta al máximo con este emote que grita: ¡10 de 10!",
+    "price": 56.99,
+    "image": "imagenes/emo05.png"
+  },
+  {
+    "id": 30,
+    "name": "Emote del Esqueleto con Tesoro",
+    "description": "Este esqueleto no solo lucha… también presume su botín dorado con estilo brillante.",
+    "price": 92.99,
+    "image": "imagenes/emo06.png"
+  },
+  {
+    "id": 31,
+    "name": "Emote del Duende Nervioso",
+    "description": "Cuando los nervios atacan, este duende lo dice todo con solo una mordida de uñas.",
+    "price": 61.99,
+    "image": "imagenes/emo07.png"
+  },
+  {
+    "id": 32,
+    "name": "Emote del Tronco Navideño",
+    "description": "Celebra con garra: este tronco festivo mezcla espíritu navideño con actitud explosiva.",
+    "price": 2.99,
+    "image": "imagenes/emo08.png"
+  }
+]

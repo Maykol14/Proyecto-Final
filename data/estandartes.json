@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9,
+    "name": "Banner de Trio de Mosquetera",
+    "description": "Las Trillizas Mosqueteras llegan con estilo: un trío irresistible que combina encanto, fuerza y actitud para dominar cualquier batalla.",
+    "price": 15.99,
+    "image": "imagenes/estand01.png"
+  },
+  {
+    "id": 10,
+    "name": "Banner de Cerdo Volador",
+    "description": "Un enorme cerdo volador surca los cielos con estilo, llevando aventuras y caos adorable a cada rincón del reino.",
+    "price": 40.99,
+    "image": "imagenes/estand03.png"
+  },
+  {
+    "id": 11,
+    "name": "Banner de Mosquerter deslumbrante",
+    "description": "La Mosquetera deslumbra con su estilo heroico y un disparo imparable que garantiza precisión, poder y presencia en cada partida.",
+    "price": 34.99,
+    "image": "imagenes/estand02.png"
+  },
+  {
+    "id": 12,
+    "name": "Banner de Baby Dragon ",
+    "description": "Un tierno dragón bebé contempla huevos dorados por eclosionar en una ilustración para proyectos infantiles.",
+    "price": 22.99,
+    "image": "imagenes/estand04.png"
+  },
+  {
+    "id": 13,
+    "name": "Banner de LanzaFuegos Encendida",
+    "description": "La Lanzafuegos llega encendida: un estallido de poder, actitud y chispa perfecta para prender fuego a cada batalla",
+    "price": 30.99,
+    "image": "imagenes/estand05.png"
+  },
+  {
+    "id": 14,
+    "name": "Banner del Rey Barbaro",
+    "description": "El Rey Bárbaro entra con pura arrogancia y poder: una sonrisa demoledora y una energía imparable listas para aplastar cualquier arena.",
+    "price": 20.99,
+    "image": "imagenes/estand06.png"
+  },
+  {
+    "id": 15,
+    "name": "Banner Arquera firme",
+    "description": "La Arquera llega con precisión letal: mirada firme, arco en mano y una puntería lista para decidir cualquier batalla.",
+    "price": 10.99,
+    "image": "imagenes/estand07.png"
+  },
+  {
+    "id": 16,
+    "name": "Banner Duende Veloz",
+    "description": "Un duende veloz atraviesa el aire con una sonrisa enorme, llevando caos y diversión a la arena.",
+    "price": 14.99,
+    "image": "imagenes/estand08.png"
+  }
+]
