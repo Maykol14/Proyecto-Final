@@ -52,7 +52,7 @@ function Juego() {
 
     const elixir = document.createElement("img");
     elixir.classList.add("elixir");
-    elixir.src = "imagenes/coin.png"; // Ruta corregida
+    elixir.src = "coin.png"; 
     elixir.style.position = "absolute";
     elixir.style.width = "30px";
     elixir.style.height = "30px";
@@ -120,7 +120,7 @@ function Juego() {
         {/* Jugador (Rey) */}
         <img
           ref={playerRef}
-          src="imagenes/rey.png" // Ruta corregida
+          src="rey.png"
           alt="player"
           style={{
             position: "absolute",
@@ -134,3 +134,4 @@ function Juego() {
     </div>
   );
 }
+
